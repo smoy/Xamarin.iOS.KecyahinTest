@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecKeyChainTest", "SecKeyChain\SecKeyChainTest.csproj", "{38FC2A8E-9AC8-434E-9E1F-7041114D4D09}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecKeyChainTest", "SecKeyChainTest\SecKeyChainTest.csproj", "{38FC2A8E-9AC8-434E-9E1F-7041114D4D09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
