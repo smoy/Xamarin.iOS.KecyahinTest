@@ -50,7 +50,7 @@ namespace SecKeyChainTest
       Assert.True(TestSecret.Equals(queryResult.Generic));
 
       // try updating
-      SecRecord newSecret = new SecRecord(SecKind.GenericPassword)
+      SecRecord newSecret = new SecRecord()
       {
           Generic = TestNewSecret
       };
